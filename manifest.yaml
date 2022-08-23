@@ -12,7 +12,7 @@ data:
 apiVersion: v1
 kind: ReplicationController
 metadata:
-  name: spring-controller
+  #name: spring-controller
 spec:
   replicas: 1
   selector:
